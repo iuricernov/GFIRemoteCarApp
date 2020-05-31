@@ -1,0 +1,2 @@
+rootProject.name='GFIRemoteCar'
+include ':app'
